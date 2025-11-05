@@ -164,9 +164,6 @@ Edit the prompts in `src/lib/gemini.ts` to adjust AI behavior:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -176,13 +173,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Next.js** for the robust framework
 - **Tailwind CSS** for utility-first styling
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/your-repo/issues) page
-2. Create a new issue with detailed information
-3. Include your environment details and error messages
-
----
-
-**Made with ❤️ and AI** - Transform your fitness journey today!
